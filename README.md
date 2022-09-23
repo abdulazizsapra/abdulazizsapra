@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Aziz Sapra</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/max/828/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)"/>
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/max/828/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)](https://miro.medium.com/max/828/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizsapra&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizsapra" /> </p>
 
